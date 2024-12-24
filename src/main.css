@@ -3,3 +3,7 @@
 * {
   font-family: "Jura", serif;
 }
+
+html body #root{
+  min-height: 100lvh;
+}
