@@ -14,6 +14,13 @@ This is frontend project using ReactJS and built with Vite.
 ```bash
 
 git clone https://github.com/ptt98hd/reactjs.git ReactJS
+
+```
+
+2. Change directory
+
+```bash
+
 cd ReactJS
 
 ```
