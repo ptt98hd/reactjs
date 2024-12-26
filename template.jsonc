@@ -1,0 +1,59 @@
+{
+  // Article: Bài viết (hiển thị trên trang chủ)
+  "articles": [
+    {
+      "id": "ID bài viết",
+      "title": "Tiêu đề bài viết",
+      "thumbnail": "Thumnail bài viết (URL)",
+      "sumary": "Tóm tắt bài viết",
+      "date": "Ngày tháng bài viết",
+      "category": "Danh mục bài viết"
+    },
+    {
+      "id": "ID bài viết",
+      "title": "Tiêu đề bài viết",
+      "thumbnail": "Thumnail bài viết (URL)",
+      "sumary": "Tóm tắt bài viết",
+      "date": "Ngày tháng bài viết",
+      "category": "Danh mục bài viết"
+    },
+    {
+      "id": "ID bài viết",
+      "title": "Tiêu đề bài viết",
+      "thumbnail": "Thumnail bài viết (URL)",
+      "sumary": "Tóm tắt bài viết",
+      "date": "Ngày tháng bài viết",
+      "category": "Danh mục bài viết"
+    }
+  ],
+  // Article: Nội dung của 1 bài viết (Trang bài viết)
+  "article": {
+    "id": "ID bài viết",
+    "title": "Tiêu đề bài viết",
+    "thumbnail": "Thumnail bài viết (URL)",
+    "sumary": "Tóm tắt bài viết",
+    "date": "Ngày tháng đăng bài",
+    "category": "Danh mục bài viết",
+    "content": "Nội dung bài viết (Markdown)",
+    "comments": [
+      {
+        "comment-id": "ID bình luận",
+        "user": {
+          "id": "ID người dùng",
+          "avatar": "Ảnh đại diện (URL)",
+          "name": "Tên người dùng"
+        },
+        "content": "Nội dung bình luận"
+      },
+      {
+        "comment-id": "ID bình luận",
+        "user": {
+          "id": "ID người dùng",
+          "avatar": "Ảnh đại diện (URL)",
+          "name": "Tên người dùng"
+        },
+        "content": "Nội dung bình luận"
+      }
+    ]
+  }
+}
